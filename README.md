@@ -6,13 +6,13 @@
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=for-the-badge&logo=react)
   ![Gatsby](https://img.shields.io/badge/-Gatsby-3b2e5a?style=for-the-badge&logo=gatsby)
   ![MaterialUI](https://img.shields.io/badge/-MaterialUI-0081CB?style=for-the-badge&logo=material-UI)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+  ![Cypress](https://img.shields.io/badge/-cypress-000000?style=for-the-badge&logo=cypress)
 
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=for-the-badge&logo=Python)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django)
   ![Fastapi](https://img.shields.io/badge/-fastapi-092E20?style=for-the-badge&logo=fastapi)
   ![Strapi](https://img.shields.io/badge/-strapi-9179ff?style=for-the-badge&logo=strapi&logoColor=white)
-
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
   ![Docker](https://img.shields.io/badge/Docker-232F3E?style=for-the-badge&logo=docker)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
