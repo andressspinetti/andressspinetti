@@ -21,12 +21,6 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-0f5981?style=for-the-badge&logo=netlify&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 
-
-
-### Github Stats
-
-[![Andres's github stats](https://github-readme-stats.vercel.app/api?username=andressspinetti&count_private=true&show_icons=true)](https://github.com/andressspinetti/)
-
 ### Reach me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/andressspinetti) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/andres-s-s/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='linkedin' height='40'>](https://medium.com/@andresss)
